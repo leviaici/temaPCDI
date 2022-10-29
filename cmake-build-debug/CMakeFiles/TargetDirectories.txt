@@ -1,0 +1,3 @@
+/Users/levismac/Documents/CLION/temaPCDI/cmake-build-debug/CMakeFiles/temaPCDI.dir
+/Users/levismac/Documents/CLION/temaPCDI/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/levismac/Documents/CLION/temaPCDI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
